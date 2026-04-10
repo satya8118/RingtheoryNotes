@@ -1,2 +1,2 @@
 # RingtheoryNotes
-This notes is not a final version. I will be updated soon
+This notes is not the final version. I will be updated soon
